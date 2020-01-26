@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Telegram - UpdateBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Telegram___UpdateBot_jar</output-path>
+    <root id="archive" name="Telegram - UpdateBot.jar">
+      <element id="module-output" name="Telegram - UpdateBot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../APIs/jtelegram-botapi-0.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
